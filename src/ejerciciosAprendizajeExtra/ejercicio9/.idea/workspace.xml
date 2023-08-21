@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94a45257-71a1-4252-b11d-c2012f86b662" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ejerciciosAprendizaje/ejercicio19/Ejercicio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ejerciciosAprendizaje/ejercicio20/Ejercicio20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ejerciciosAprendizaje/ejercicio21/Ejercicio21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio23/Ejercicio23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio24/Ejercicio24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/JavaIntro/ejercicios/manosALaObra/ejercicio11/Ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/JavaIntro/ejercicios/manosALaObra/ejercicio11/Ejercicio11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../manosALaObra/ejercicio11/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../manosALaObra/ejercicio11/Ejercicio11.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2Qr04mzp1a09nbdtToMmKxV3ZoD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/harol/IdeaProjects/Egg",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94a45257-71a1-4252-b11d-c2012f86b662" name="Changes" comment="" />
+      <created>1686096203623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686096203623</updated>
+      <workItem from="1686096204967" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
